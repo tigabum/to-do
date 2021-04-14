@@ -1,0 +1,10 @@
+.Heading{
+   margin-top: 80;
+
+}
+.headertext{
+    text-align: center;
+    font-size: 72;
+    color: rgba(175, 47, 47, 0.25);
+    font-weight: 100;
+}

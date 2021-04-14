@@ -1,0 +1,27 @@
+.listbutton{
+    position: absolute;
+    border: none;
+    float: right;
+    box-shadow: 1px 1px 1px 1px rgb(194, 194, 194);
+    z-index: 1;
+    background-color:rgb(233, 233, 233);
+    width: 10%;  
+    font-size: 10px;
+    top: -1px;
+    right: 0;
+    height: 65%;
+    margin: 10px;
+    color: red;
+    font-weight: bold;
+    
+    cursor: pointer;
+
+    
+}
+.listbutton:active,
+.listbutton:hover{
+    background-color: transparent;
+    font-size: 20px;
+    width: 20%;
+
+}
